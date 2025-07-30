@@ -1,2 +1,5 @@
 # Calculator
-[Click here to use the calculator](https://adityasakhuja18.github.io/Calculator/)
+
+A simple calculator built with JavaScript, HTML, and CSS.
+
+👉 [Live Demo](https://adityasakhuja18.github.io/Calculator/)
